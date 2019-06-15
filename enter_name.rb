@@ -7,7 +7,7 @@ def get_username
     puts "Name must be greater than  5  characters!"
   else
     puts "Hello, " + username
-
+  end
     
 end
 
