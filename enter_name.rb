@@ -1,1 +1,1 @@
-pputs "Enter your name!"
+puts "Enter your name!"
