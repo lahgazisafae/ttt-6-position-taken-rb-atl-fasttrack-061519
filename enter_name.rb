@@ -5,3 +5,5 @@ def username
 
   puts "Hello, " + username
 end
+
+username
