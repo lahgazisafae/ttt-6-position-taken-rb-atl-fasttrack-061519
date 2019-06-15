@@ -5,7 +5,7 @@ def greater_than_10(x)
   elsif x > 10 && x < 20 
     puts "X is between 10 and 20"
   elsif x >20 && x < 30
-    
+    puts "X is between 20 & 30"
   else
     puts "x is greater than 20!"
   end
