@@ -1,5 +1,5 @@
 def username
-  puts "Enter your name!"
+  puts "Enter your username!"
 
   name = gets 
 
