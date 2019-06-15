@@ -1,7 +1,7 @@
 def username
   puts "Enter your username!"
 
-  name = gets 
+  username = gets 
 
-  puts "Hello, " + name
+  puts "Hello, " + username
 end
