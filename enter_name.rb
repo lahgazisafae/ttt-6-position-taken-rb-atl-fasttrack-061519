@@ -1,5 +1,7 @@
-puts "Enter your name!"
+def username
+  puts "Enter your name!"
 
-name = gets 
+  name = gets 
 
-puts "Hello, " + name 
+  puts "Hello, " + name
+end
