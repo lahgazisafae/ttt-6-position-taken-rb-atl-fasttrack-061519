@@ -16,4 +16,4 @@ greater_than_10(5)
 
 greater_than_10(25)
 
-greateer_than_
+greateer_than_10(10)
