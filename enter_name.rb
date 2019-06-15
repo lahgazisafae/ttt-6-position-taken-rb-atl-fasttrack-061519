@@ -1,4 +1,4 @@
-def username
+def get_username
   puts "Enter your username!"
 
   username = gets 
@@ -6,4 +6,4 @@ def username
   puts "Hello, " + username
 end
 
-username
+get_username
