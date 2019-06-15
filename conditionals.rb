@@ -8,3 +8,4 @@ def greater_than_10(x)
   
 end
 
+greater_than_10(5)
